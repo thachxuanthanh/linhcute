@@ -1,0 +1,19 @@
+@media (min-width: 375px) and (max-width: 861px) {
+  img {
+    position: absolute;
+    width: 60%;
+    top: 30%;
+    transform: translateX(32%);
+    border-radius: 10%;
+  }
+}
+
+@media screen and (min-width: 483px) and (max-width: 736px) {
+  img {
+    position: absolute;
+    width: 50%;
+    top: 27%;
+    transform: translateX(8rem);
+    border-radius: 10%;
+  }
+}
